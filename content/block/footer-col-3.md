@@ -1,3 +1,7 @@
-#### Footer col 3
+#### Jag finns även på
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+
+[<i class="fab fa-facebook">](http://www.facebook.com)</i>
+[<i class="fab fa-linkedin">](http://www.linkedin.com)</i>
+[<i class="fab fa-github">](http://www.github.com)</i>
+[<i class="fab fa-stack-overflow">](http://www.stackoverflow.com)</i>

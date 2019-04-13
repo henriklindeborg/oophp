@@ -1,27 +1,16 @@
 ---
-title: "Min fina titel"
+title: "Henriks me-sida"
+
 ---
-Min me-sida i kursen oophp
+Henriks me-sida i kursen OOPHP
 =========================
+<div class="index-leaf"><img src="img/theme/leaf_256x256.png" class="spin"></div>
+<div class="arrow"></div>
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
+[FIGURE src="image/me.jpg?w=500" class="right" caption="Bild på mig"]
 
-[FIGURE src="image/me.jpg?w=400&a=4,27,11,0&cf&sharpen" class="right" caption="Bild på mig, ätandes glass och hållandes ett kort på någon jultillställning."]
+Jag heter Henrik Lindeborg, men brukar oftast kallas för Harpan. Harpan är ett smeknamn som har hängt med sedan i början utav gymnasiet, där jag gick estetisk linje med inrikting musik. Jag spelade sedan innan mycket gitarr och valde det som förstainstrument, men ville nu testa harpa och valde det som biinstrument. Det blev en massa strul med att fixa det här och för att göra en lång historia kort, så blev jag döpt till Harpan på någon fest.
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
+Jag håller mig aktiv till största delen av min vakna tid. På sommrarna så åker jag runt på festivaler, där jag oftast jobbar ideelt. Under vintern eller våren så händer det ofta att jag försvinner iväg utomlands och volonterar på bondgårdar. Men när jag väl är hemma i Lund, där jag nu mer bor, så passar jag på att träffa alla underbara vänner. Eller så drar jag ut och klättrar en runda.
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
-
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
-
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
-
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching, sedan turfing och nu på sistone verkar släktforskning lite spännande. Annars kan jag alltid koda på något av mina opensource-projekt, det finns och blir över.
-
-Vill du läsa mer om vad jag jobbat med så kan du kika på min [Linkedin-profil](https://www.linkedin.com/in/pt90mr/).
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+Jag började programmera lite grann när jag gick i högstadiet, när jag och en kompis skulle hålla i ett stort lan på skolan. Jag gjorde då en enkel hemsida med information, anmälning, länkar osv. Programmeringen hamnade tyvärr på hyllan ett ganska bra tag, tills för ungefär ett år sedan då jag drog igenom codecademys Pythonkurs. Det var svinkul tyckte jag och köpte en kurs om webbutveckling på nätet, som jag fortfarande inte har gjort klart. Och nu så går jag två kurspaket på BTH som handlar om programmering, där jag nu har tagit mig igenom största delen av delkurserna.
