@@ -4933,7 +4933,7 @@
  }
  header li {
    display: inline-block;
-   margin: 1em;
+   margin: 1em 0.3em;
  }
  header a {
    text-decoration: none;
@@ -4947,6 +4947,8 @@
  img {
    max-width: 100%;
  }
+
+
  /**
   * Import the vertical grid.
   */
