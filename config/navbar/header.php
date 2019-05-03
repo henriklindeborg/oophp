@@ -30,6 +30,31 @@ return [
                         "url" => "redovisning/kmom02",
                         "title" => "Redovisning för kmom02.",
                     ],
+                    [
+                        "text" => "Kmom03",
+                        "url" => "redovisning/kmom03",
+                        "title" => "Redovisning för kmom03.",
+                    ],
+                    [
+                        "text" => "Kmom04",
+                        "url" => "redovisning/kmom04",
+                        "title" => "Redovisning för kmom04.",
+                    ],
+                    [
+                        "text" => "Kmom05",
+                        "url" => "redovisning/kmom05",
+                        "title" => "Redovisning för kmom05.",
+                    ],
+                    [
+                        "text" => "Kmom06",
+                        "url" => "redovisning/kmom06",
+                        "title" => "Redovisning för kmom06.",
+                    ],
+                    [
+                        "text" => "Kmom07/10",
+                        "url" => "redovisning/kmom07/10",
+                        "title" => "Redovisning för kmom07/10.",
+                    ],
                 ],
             ],
         ],
@@ -38,30 +63,53 @@ return [
             "url" => "om",
             "title" => "Om denna webbplats.",
         ],
-        // [
-        //     "text" => "Styleväljare",
-        //     "url" => "style",
-        //     "title" => "Välj stylesheet.",
-        // ],
         [
-            "text" => "Docs",
+            "text" => "Spel",
+            "url" => "dice-game",
+            "title" => "Spela spel.",
+            "submenu" => [
+                "items" => [
+                    [
+                        "text" => "Guess Game",
+                        "url" => "guess-game",
+                        "title" => "Gissa-nummretspel.",
+                    ],
+                    [
+                        "text" => "Tärningsspel",
+                        "url" => "dice-game",
+                        "title" => "Tärningsspelet 100.",
+                    ],
+                ],
+            ],
+        ],
+        [
+            "text" => "Övrigt",
             "url" => "dokumentation",
-            "title" => "Dokumentation av ramverk och liknande.",
-        ],
-        [
-            "text" => "Test &amp; Lek",
-            "url" => "lek",
-            "title" => "Testa och lek med test- och exempelprogram",
-        ],
-        [
-            "text" => "Anax dev",
-            "url" => "dev",
-            "title" => "Anax development utilities",
-        ],
-        [
-            "text" => "Guess Game",
-            "url" => "guess-game",
-            "title" => "Gissa-nummretspel.",
+            "title" => "Övrigt.",
+            "submenu" => [
+                "items" => [
+                    [
+                        "text" => "Docs",
+                        "url" => "dokumentation",
+                        "title" => "Dokumentation av ramverk och liknande.",
+                    ],
+                    [
+                        "text" => "Test &amp; Lek",
+                        "url" => "lek",
+                        "title" => "Testa och lek med test- och exempelprogram",
+                    ],
+                    [
+                        "text" => "Anax dev",
+                        "url" => "dev",
+                        "title" => "Anax development utilities",
+                    ],
+                    [
+                        "text" => "Styleväljare",
+                        "url" => "style",
+                        "title" => "Välj stylesheet.",
+                    ],
+                ],
+            ],
         ],
     ],
 ];

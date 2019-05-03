@@ -7,7 +7,7 @@ return [
     "id" => "rm-menu",
     "wrapper" => null,
     "class" => "rm-default rm-mobile",
- 
+
     // Here comes the menu items
     "items" => [
         [
@@ -40,24 +40,52 @@ return [
             "title" => "Om denna webbplats.",
         ],
         [
-            "text" => "Styleväljare",
-            "url" => "style",
-            "title" => "Välj stylesheet.",
+            "text" => "Spel",
+            "url" => "dice-game",
+            "title" => "Spela spel.",
+            "submenu" => [
+                "items" => [
+                    [
+                        "text" => "Guess Game",
+                        "url" => "guess-game",
+                        "title" => "Gissa-nummretspel.",
+                    ],
+                    [
+                        "text" => "Tärningsspel",
+                        "url" => "dice-game",
+                        "title" => "Tärningsspelet 100.",
+                    ],
+                ],
+            ],
         ],
         [
-            "text" => "Docs",
+            "text" => "Övrigt",
             "url" => "dokumentation",
-            "title" => "Dokumentation av ramverk och liknande.",
-        ],
-        [
-            "text" => "Test &amp; Lek",
-            "url" => "lek",
-            "title" => "Testa och lek med test- och exempelprogram",
-        ],
-        [
-            "text" => "Anax dev",
-            "url" => "dev",
-            "title" => "Anax development utilities",
+            "title" => "Övrigt.",
+            "submenu" => [
+                "items" => [
+                    [
+                        "text" => "Docs",
+                        "url" => "dokumentation",
+                        "title" => "Dokumentation av ramverk och liknande.",
+                    ],
+                    [
+                        "text" => "Test &amp; Lek",
+                        "url" => "lek",
+                        "title" => "Testa och lek med test- och exempelprogram",
+                    ],
+                    [
+                        "text" => "Anax dev",
+                        "url" => "dev",
+                        "title" => "Anax development utilities",
+                    ],
+                    [
+                        "text" => "Styleväljare",
+                        "url" => "style",
+                        "title" => "Välj stylesheet.",
+                    ],
+                ],
+            ],
         ],
     ],
 ];

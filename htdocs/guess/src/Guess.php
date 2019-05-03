@@ -39,9 +39,6 @@ class Guess
         $this->number = rand(1, 100);
     }
 
-
-
-
     /**
      * Get number of tries left.
      *
@@ -51,9 +48,6 @@ class Guess
     {
         return $this->tries;
     }
-
-
-
 
     /**
      * Get the secret number.
