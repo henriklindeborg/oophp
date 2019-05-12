@@ -5,7 +5,7 @@ namespace Heln\Dice;
 /**
  * Showing off a standard class with methods and properties.
  */
-class DiceHand extends Dice
+class DiceHand extends Histogram
 {
     /**
      * @var int $values   The values of the rolls.
