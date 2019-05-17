@@ -1,9 +1,7 @@
 <?php
-
 namespace Heln\DicePlayers;
 
 namespace Heln\Dice;
-
 
 use Anax\Commons\AppInjectableInterface;
 use Anax\Commons\AppInjectableTrait;

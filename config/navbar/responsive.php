@@ -40,6 +40,11 @@ return [
             "title" => "Om denna webbplats.",
         ],
         [
+            "text" => "Filmer",
+            "url" => "movie",
+            "title" => "Bläddra bland filmer.",
+        ],
+        [
             "text" => "Spel",
             "url" => "dice-game",
             "title" => "Spela spel.",

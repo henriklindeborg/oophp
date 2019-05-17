@@ -47,6 +47,4 @@ class HistogramTest extends TestCase
         $res = $dice->getAsText();
         $this->assertIsString($res);
     }
-
-
 }

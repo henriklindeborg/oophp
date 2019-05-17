@@ -40,7 +40,7 @@ class Histogram extends DiceHistogram2
         $history = array_count_values($this->serie);
         $string = "";
         for ($i = $this->min; $i < $this->max; $i++) {
-            if (!isset($history[$i]) ) {
+            if (!isset($history[$i])) {
                 $history[$i] = 0;
             }
         }

@@ -5579,3 +5579,8 @@
     font-size: 3em;
     margin-top: 0.5em;
 }
+
+.thumb {
+    max-width: 100px;
+    max-height: 100px;
+}
