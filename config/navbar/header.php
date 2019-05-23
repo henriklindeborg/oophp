@@ -69,6 +69,16 @@ return [
             "title" => "Bläddra bland filmer.",
         ],
         [
+            "text" => "Content",
+            "url" => "content",
+            "title" => "Content",
+        ],
+        [
+            "text" => "Test",
+            "url" => "textfilter",
+            "title" => "Test",
+        ],
+        [
             "text" => "Spel",
             "url" => "dice-game",
             "title" => "Spela spel.",

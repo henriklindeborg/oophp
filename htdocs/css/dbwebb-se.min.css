@@ -5584,3 +5584,44 @@
     max-width: 100px;
     max-height: 100px;
 }
+
+table {
+    border: solid 1px #111;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 0.5em auto;
+    padding: 0.5em;
+}
+
+th {
+    background-color: #818181;
+    border: solid 1px #111;
+    color: #D2E13C;
+    padding: 10px;
+    text-align: left;
+    text-shadow: 1px 1px 1px #111;
+    margin: 0.5em;
+}
+
+td {
+    border: solid 1px #111;
+    color: #333;
+    padding: 10px;
+    text-shadow: 1px 1px 1px #fff;
+}
+
+tr {
+    background-color: #fff;
+}
+
+tr:hover {
+    background-color: #ddd;
+}
+
+td i {
+    color: #666;
+}
+
+td a {
+    color: #666;
+}
